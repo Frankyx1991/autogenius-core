@@ -1,3 +1,4 @@
-# Requisitos corregidos
-numpy
 requests
+numpy
+openai
+python-dotenv
