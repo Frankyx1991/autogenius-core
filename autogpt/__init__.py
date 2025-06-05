@@ -1,1 +1,0 @@
-# AutoGPT módulo base
